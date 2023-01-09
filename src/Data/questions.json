@@ -1,0 +1,3514 @@
+{
+    "FourAnswers1" : [
+        {
+            "id" : 1,
+            "name": "Books",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who among the following is the author of the novel 'Oliver Twist'?",
+                    "TAnswer":  "Charles Dickens",
+                    "answers" : ["Charlottie bronte", "EM Forster", "Thomas Hardy",  "Charles Dickens"]
+                   
+                },
+                {
+                    "id" : 2,
+                    "question": "‘Game Changer’ is the name of an autobiography of which sportsperson?",
+                    "TAnswer": "Shahid Afridi",
+                    "answers" : ["Rahul Dravid","Shahid Afridi","Shane Warne","Yuvraj Singh"]
+                      
+                },
+                {
+                    "id" : 3,
+                    "question": "The author of world famous Harry Potter series is?",
+                    "TAnswer": "JK Rowling",
+                    "answers" : ["Emest Twain","JK Rowling","William Austson","George Orwell"]
+                },
+                {
+                   "id" : 4,
+                    "question": " Which among the following books had been written by Barack Obama?",
+                    "TAnswer": "The audacity of hope",
+                    "answers" : ["What happened ",
+                     "The audacity of hope",
+                     "Hard Choices ",
+                    "Living History"]
+                   
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "'Mein Kampf' is the autobiography of which of these?",
+                    "TAnswer": "Adolf Hitler",
+                    "answers" : ["Vladimir Putin",
+                     "Winston Churchill",
+                     "Adolf Hitler",
+                    "Barack Obama"]
+                }
+            ]
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Cities",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which city has Europe's tallest skyscraper as of 2021?",
+                    "TAnswer": "St. Petersburg",
+                    "answers" : ["Moscow",
+                    "St. Petersburg",
+                     "Paris",
+                    "Berlin" ]              
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the former name of the Indian city of Mumbai?",
+                    "TAnswer": "Bombay",
+                    "answers" : [ "Mysore",
+                    "Madras",
+                     "Bangalore",
+                     "Bombay"]
+                   
+                },
+                {
+                    "id" : 3,
+                    "question": "Africa's largest city in terms of population is ...?",
+                    "TAnswer": "Lagos",
+                    "answers" : ["Cairo",
+                     "Lagos",
+                     "Luanda",
+                    "Botswana"]                   
+                },
+                {
+                    "id" : 4,
+                    "question": "Which country has two capitals: one formed historically and the other is one by law?",
+                    "TAnswer": "Tanzania",
+                    "answers" : ["Tanzania",
+                    "Switzerland",
+                    "Qatar",
+                     "Yeman"  ]              
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which capital city has the largest population as of 2021?",
+                    "TAnswer": "Beijing",
+                    "answers" : ["Beijing",
+                    "Rio",
+                     "Moscow",
+                    "New Delhi" ]         
+                }
+            ]
+        },
+
+
+        {
+            "id" : 3,
+            "name": "Nature",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which sea is the largest on Earth?",
+                    "TAnswer": "Philippines sea",
+                    "answers" : ["Yellow Sea",
+                     "Philippines sea",
+                   "Black Sea",
+                   "Caspian sea"]                   
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which country has the largest number of lakes in the world?",
+                    "TAnswer": "Canada",
+                    "answers" : ["Finland",
+                     "Canada",
+                    "Russia",
+                   "USA"]
+                    
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Which river flows through 10 countries?",
+                    "TAnswer": "The Danube",
+                    "answers" : ["The Tiber",
+                     "The River Thames",
+                    "The Danube",
+                    "The Amazon River"]
+                    
+
+
+                },
+                {
+                    "id" : 4,
+                    "question": "Which month is the calendar autumn in the Southern Hemisphere?",
+                    "TAnswer": "March",
+                    "answers" : ["March",
+                     "February",
+                    "September",
+                     "July"]
+                    
+
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which river flows through Rome?",
+                    "TAnswer": "The Tiber",
+                    "answers" : ["The Ticino",
+                     "The Tiber",
+                    "The Tanaro",
+                    "The Teneso"]
+                    
+
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Hollywood",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Where is Hollywood located?",
+                    "TAnswer": "Los Angeles",
+                    "answers" : ["Georgia",
+                     "Arizona",
+                     "Los Angeles",
+                     "Las Vegas" ]                 
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who among the following has been awarded as the best female actress at the Oscars 2022?",
+                    "TAnswer": "Jessica Chastain",
+                    "answers" : ["Kristen Stewart",
+                     "Jessica Chastain",
+                     "Nicole Kidman",
+                     " Penelope Cruz"]
+                   
+                },
+                {
+                    "id" : 3,
+                    "question": "Who is the director of 'Wonder women'superhero movie?",
+                    "TAnswer": "Patty Jenkins",
+                    "answers" : ["Connie Nilsen",
+                     "Patty Jenkins",
+                     "Alex xavier",
+                     "Emily Rotherd "]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which film won the Oscar 2021 for Best Picture?",
+                    "TAnswer": "Nomad Land",
+                    "answers" : ["Minari",
+                     "Nomad Land",
+                     "Mank Daag",
+                     "The Fire"]               
+                    }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the place of origin of Batman?",
+                    "TAnswer": "Gotham",
+                    "answers" : ["Newark",
+                     "Gotham",
+                     "Nevada",
+                     "Hoboken"]  
+                         }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 5,
+            "name": "Continents",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Largest Suspension bridge (Golden Gate Bridge) is located in North America Continent at?",
+                    "TAnswer": "San Francisco",
+                    "answers" : ["San Francisco",
+                     "Las Vegas",
+                     "Los Angeleis",
+                     "Ne]w York "]
+                         
+                },
+                {
+                    "id" : 2,
+                    "question": "Which of the following lakes does not belong to Asia?",
+                    "TAnswer":  "Malawi",
+                    "answers" : ["Caspian Sea",
+                     "Baikal",
+                     "Aral Sea",
+                     "Malawi"]  
+                                 },
+                {
+                    "id" : 3,
+                    "question": "Which among the following mountains does not belong to Europe",
+                    "TAnswer": "Rocky",
+                    "answers" : ["Alps",
+                     "Pyrenes",
+                     "Carpathians",
+                     "Rocky"]           },
+                {
+                    "id" : 4,
+                    "question": "Which is the oldest state in Australia continent?",
+                    "TAnswer": "New South Wales",
+                    "answers" : ["Canberra",
+                     "New South Wales",
+                     "Victoria",
+                     "Queen]sland"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which among the following rivers does not belong to Africa?",
+                    "TAnswer": "Colorado",
+                    "answers" : ["Congo",
+                     "Niger",
+                     "Nile",
+                     "Colorado"]   
+                      }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 6,
+            "name": "world cups",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which country is the winner of the ‘2022 FIFA U-17 Women’s World Cup’?",
+                    "TAnswer": "Spain",
+                    "answers" : ["France",
+                     "Spain",
+                     "Brazil",
+                     "Colombia"]
+                             },
+                {
+                    "id" : 2,
+                    "question": "How many times Brazil has won the Football World Cup so far?",
+                    "TAnswer": 7.50,
+                    "answers" : ["5",
+                     "4",
+                     "7",
+                     "6"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Which version of the ICC Men's T20 Cricket World Cup would be played in the year 2022?",
+                    "TAnswer": "8th",
+                    "answers" : ["10th",
+                     "8th",
+                     "9th",
+                     "7th"]
+                },
+               {
+                    "id" : 4,
+                    "question": "Which country has won the ICC Men's T20 Cricket World Cup title twice?",
+                    "TAnswer": 7.50,
+                    "answers" : ["India",
+                     "West Indies",
+                     "Australia",
+                     "England"]                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "what was hosted country for rugbhy world cup 2022",
+                    "TAnswer": "New Zealand",
+                    "answers" : ["South Africa",
+                     "England",
+                     "New Zealand",
+                     "Japan"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 7,
+            "name": "Space",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which country has launched its spacecraft to Mars named ‘Hope’?",
+                    "TAnswer": "Japan",
+                    "answers" : ["Israel",
+                     "North Korea",
+                     "UAE",
+                     "Japan"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "VIPER, which is seen in news regarding space exploration, is a robot proposed by which agency?",
+                    "TAnswer": "NASA",
+                    "answers" : ["NASA",
+                     "ISRO",
+                     "ESA",
+                     "Roscosmos"
+              ]  },
+                {
+                    "id" : 3,
+                    "question": "Which countries have been elected as President and Co-President of the International Solar Alliance?",
+                    "TAnswer": "India and France",
+                    "answers" : ["France and Korea",
+                     "India and France",
+                     "Japan and Korea",
+                     "China and Japan"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which planet looks reddish in the night sky?",
+                    "TAnswer": "Mars",
+                    "answers" : ["Jupiter",
+                     "Saturn",
+                     "Mars",
+                     "Mercury"
+          ]          
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which planet has the fastest revolution time?",
+                    "TAnswer": "Mercury",
+                    "answers" : ["Mercury",
+                     "Uranus",
+                     "Neptune",
+                     "Jupiter"
+       ]             
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 8,
+            "name": "Defense",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which of the following Missile Systems is developed by the USA?",
+                    "TAnswer": "THAAD",
+                    "answers" : [" S-400 Triumph",
+                     "THAAD",
+                     "Barak",
+                     "A-135"
+
+    ]            },
+                {
+                    "id" : 2,
+                    "question": "LAC (Line of Actual Control) was settled between india and?",
+                    "TAnswer": "Pakistan",
+                    "answers" : ["Pakistan",
+                     "China",
+                     "Bhutan",
+                     "Nepal"
+          ]      },
+                {
+                    "id" : 3,
+                    "question": "Joint exercises between the Air Forces of India and Srilanka are called?",
+                    "TAnswer": "Mitra Shakthi",
+                    "answers" : ["Hand in Hand",
+                     "Yudh Abhyas",
+                     "Mitra Shakthi",
+                     "Veera"]
+                     
+                },
+                {
+                    "id" : 4,
+                    "question": "CORPAT is a Military Exercise between India and which country?",
+                    "TAnswer": "Bangladesh",
+                    "answers" : ["Japan",
+                     "Sri Lanka",
+                     "Bangladesh",
+                     "Russia"
+    ]                
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the most famous Russian weapon?",
+                    "TAnswer": "AK-47",
+                    "answers" : ["AN-602",
+                     "AT-74",
+                     "AK-47",
+                     "AT-18"
+             ]   }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 9,
+            "name": "Foreign Media",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was the parent organization of CNN?",
+                    "TAnswer": "Warner Bros",
+                    "answers" : ["Warner Bros",
+                     "Paramount",
+                     "Zero Global",
+                     "Canopy"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who is the new CEO of CNN?",
+                    "TAnswer": "Chris Licht",
+                    "answers" : ["Chris Licht",
+                     "Ted Turner",
+                     "Reese Dock",
+                     "Fleminn Warner"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who was the chairperson of BBC?",
+                    "TAnswer": "Richard Sharp",
+                    "answers" : ["John Reith",
+                     "Richard Sharp",
+                     "Alan Dockrell",
+                     "Peter Delany"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What does Al Jazeera mean in English?",
+                    "TAnswer": "Peninsula",
+                    "answers" : ["Peninsula",
+                     "Sharpness",
+                     "Democracy",
+                     "Success"
+]                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Where the Time magazine based on?",
+                    "TAnswer": "New York",
+                    "answers" : ["London",
+                     "New York",
+                     "Washington",
+                     "Paris"
+     ]           }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 10,
+            "name": "Celebrities",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was Will Smith's next film in 2022",
+                    "TAnswer": "Emancipation",
+                    "answers" : ["Emancipation",
+                     "The Pursuit",
+                     "Hancock",
+                     "Invisible man"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who was the richest actor in 2022",
+                    "TAnswer": "Jerry Seinfeld",
+                    "answers" : ["Tom Cruise",
+                     "Jerry Seinfeld",
+                     "Mary-Kate",
+                     "Robert De Niro"]
+                   
+                },
+                {
+                    "id" : 3,
+                    "question": "What movie which Tom Cruise not act?",
+                    "TAnswer": "Gentleman",
+                    "answers" : ["Jack Reacher",
+                     "Mummy",
+                     "Gentleman",
+                     "Risky Business"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which song does not belong to Ed Sheeran",
+                    "TAnswer": 7.50,
+                    "answers" : ["castle on the hill",
+                     "thinking out loud",
+                     "skin",
+                     "A team"   ]        
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Where is rapper Drake originally from",
+                    "TAnswer": 7.50,
+                    "answers" : ["USA",
+                     "UK",
+                     "South Africa",
+                     "Canada"
+           ]         
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 11,
+            "name": "Organizations",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which international organisation has approved 750-billion-euro coronavirus fund, for its member countries?",
+                    "TAnswer": "European Union",
+                    "answers" : ["G-20",
+                     "European Union",
+                     "ASEAN",
+                     "BIMSTEC"]      
+                           },
+                {
+                    "id" : 2,
+                    "question": "Which country is hosting the Global Youth Climate Summit?",
+                    "TAnswer": "Bangladesh",
+                    "answers" : ["Oman",
+                     "India",
+                     "Bangladesh",
+                     "UAE"] 
+                       },
+                {
+                    "id" : 3,
+                    "question": "The headquarters of World Bank is situated in?",
+                    "TAnswer": "Washington",
+                    "answers" : ["Brussels",
+                     "Berlin",
+                     "Washington",
+                     "Geneva "]                 
+
+                },
+                {
+                    "id" : 4,
+                    "question": "The headquarters of World Health Organization is situated in?",
+                    "TAnswer": "Geneva",
+                    "answers" : ["California",
+                     "Geneva",
+                     "Paris",
+                     "London"]                  
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "United Nations industrial development organization  was established in?",
+                    "TAnswer": "1966",
+                    "answers" : ["1967",
+                     "1965",
+                     "1966",
+                     "1968"]
+                }
+            ]
+            
+        }
+       
+        
+    ],
+    
+
+    "FourAnswers2" : [
+        {
+            "id" : 1,
+            "name": "TV shows",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which city name is not used in Money Heist?",
+                    "TAnswer": "Bangkok",
+                    "answers" : ["Stockholm",
+                     "Tokyo",
+                     "Lisbon",
+                     "Bangkok"
+       ]             
+
+
+
+
+                },
+                {
+                    "id" : 2,
+                    "question": "In which UK city does Peaky Blinders take place?",
+                    "TAnswer": "Birmingham",
+                    "answers" : ["Birmingham",
+                     "Manchester",
+                     "Liverpool",
+                     "London"]
+                    
+
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Which actress portrayed Emily Cooper in Emily in Paris?",
+                    "TAnswer": "Lily Collins",
+                    "answers" : ["Ashley Park",
+                     "Lily Collins",
+                     "Emilia Clarke",
+                     "]Lily James"]
+                    
+
+
+
+                },
+                {
+                    "id" : 4,
+                    "question": "Who portrays Dr Watson in Sherlock?",
+                    "TAnswer": "Martin Freeman",
+                    "answers" : ["Martin Freeman",
+                     "Benedict Cumberbatch",
+                     "Andrew Scott",
+                     "Rupert Graves"]                   
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Complete the name of this TV show. “It’s always _____ in Philadelphia”.",
+                    "TAnswer": "Sunny",
+                    "answers" : ["Rainy",
+                     "Cold",
+                     "Sunny",
+                     "Hot"
+                 ]   
+
+                }
+            ]
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Countries",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Land of Golden fibre is known as?",
+                    "TAnswer": "Bangladesh",
+                    "answers" : ["Vietnam",
+                     "Indonesia",
+                     "Philippines",
+                     "Bangladesh"]
+                       
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which country has the motto `Liberty, Equality, Fraternity`?",
+                    "TAnswer": "France",
+                    "answers" : ["The USA",
+                     "France",
+                     "China",
+                     "Russia"
+          ]      },
+                {
+                    "id" : 3,
+                    "question": "Which of these countries is not the European one?",
+                    "TAnswer": "Algeria",
+                    "answers" : ["Czech",
+                     "Algeria",
+                     "Hungary",
+                     "Denmark"
+        ]        },
+                {
+                    "id" : 4,
+                    "question": "Which country is related to folk music genre Flamenco (songs and dances)?",
+                    "TAnswer": "Spain",
+                    "answers" : ["Italy",
+                     "Spain",
+                     "Protugal",
+                     "Mexico"
+          ]      }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which European country is also known as Holland?",
+                    "TAnswer": "The Netherlands",
+                    "answers" : ["Spain",
+                     "Greece",
+                     "Italy",
+                     "The Netherlands"
+   ]             }
+            ]
+        },
+
+
+        {
+            "id" : 3,
+            "name": "Rivers",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many rivers in srilanka?",
+                    "TAnswer": "103",
+                    "answers" : ["101",
+                     "98",
+                     "103",
+                     "97"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which is world largest river?",
+                    "TAnswer": "Amazon",
+                    "answers" : ["Amazon",
+                     "Niger",
+                     "Nile",
+                     "Orion"
+              ]  },
+                {
+                    "id" : 3,
+                    "question": "Which country has maximum rivers?",
+                    "TAnswer": "Bangladesh",
+                    "answers" : ["India",
+                     "Srilanka",
+                     "Bangladesh",
+                     "China"
+      ]          },
+                {
+                    "id" : 4,
+                    "question": "Which is India's largest river?",
+                    "TAnswer": "Indus",
+                    "answers" : ["Ganga",
+                     "Bramaputhra",
+                     "Indus",
+                     "Mahanadee"]           
+                     }
+                ,
+                {
+                    "id" : 5,
+                    "question":"Which river has most number of dams?",
+                    "TAnswer": "Ganga",
+                    "answers" : ["Ganga",
+                     "Bramaputhra",
+                     "Indus",
+                     "Mahanadee"]
+               }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Bollywood",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "The IIFA Awards of 2022 was which edition of the IIFA awards?",
+                    "TAnswer": "22nd",
+                    "answers" : ["19th",
+                     "21st",
+                     "22nd",
+                     "18th"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which movie has won the Best Feature Film award at 68th National Film Awards 2022?",
+                    "TAnswer": "Soorarai Pottru",
+                    "answers" : ["Jersey",
+                     "Tanhaji",
+                     "RRR",
+                     "Soorarai Pottru"
+   ]             },
+                {
+                    "id" : 3,
+                    "question": "In the Indian movie 'Gold' (2018), Akshay kumar's film name was?",
+                    "TAnswer": "Tapas Das",
+                    "answers" : ["Ubayan singh",
+                     "Tapas Das",
+                     "Bhalaji Rao",
+                     "Tripathi Pandey"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What is highest-grossing Indian film worldwide?",
+                    "TAnswer": "Dangal",
+                    "answers" : ["Baahubali 2",
+                     "Dangal",
+                     "RRR",
+                     "KGF 2"
+         ]       }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which movie is based on Indian hockey team on their first Olympic gold?",
+                    "TAnswer": "Gold",
+                    "answers" : ["Chak De",
+                     "MS Dhoni",
+                     "Gold",
+                     "Lagaan"
+         ]              
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 5,
+            "name": "Islands",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the famous island near singapore?",
+                    "TAnswer": "Baali",
+                    "answers" : ["Baali",
+                     "Booran",
+                     "Monali",
+                     "Santory"
+
+         ]       },
+                {
+                    "id" : 2,
+                    "question": "Which is the smallest island in the world?",
+                    "TAnswer": "Nauru",
+                    "answers" : ["Kauai",
+                     "Nauru",
+                     "Sicily",
+                     "Monaca"
+            ]    },
+                {
+                    "id" : 3,
+                    "question": "Which is the smallest island in Asia?",
+                    "TAnswer": "Maldives",
+                    "answers" : ["FIJI",
+                     "Bahamas",
+                     "Maldives",
+                     "Seyshells"
+      ]          },
+                {
+                    "id" : 4,
+                    "question": "Which country has most islands?",
+                    "TAnswer":  "Sweden",
+                    "answers" : ["Maldives",
+                     "Philiipines",
+                     "singapore",
+                     "Sweden"
+]                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which is island of pearls?",
+                    "TAnswer": "Bahrain",
+                    "answers" : ["Hawaii",
+                     "Bhahamas",
+                     "Bahrain",
+                     "Andaman"
+      ]          }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 6,
+            "name": "Olympic",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who is the host of 2024 Olympics?",
+                    "TAnswer": "Paris",
+                    "answers" : ["Tokyo",
+                     "Paris",
+                     "Sydney",
+                     "Berlin"
+
+           ]     },
+                {
+                    "id" : 2,
+                    "question": "How many times has Russia hosted the Olympics?",
+                    "TAnswer": "2",
+                    "answers" : ["2",
+                     "1",
+                     "3",
+                     "0"]
+                },
+                {
+                    "id" : 3,
+                    "question": "How many countries are in the Olympics?",
+                    "TAnswer": "206",
+                    "answers" : ["203",
+                     "198",
+                     "203",
+                     "206"]
+                },
+               {
+                    "id" : 4,
+                    "question": "Who won Olympic men's 100m 2020?",
+                    "TAnswer": "Marcell Jacobs",
+                    "answers" : [" Andre De Grasse",
+                     "Marcell Jacobs",
+                     "Fred Kerley",
+                     "Noah Lyles"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who won Olympic women's 100m 2020?",
+                    "TAnswer": "Elaine Thompson",
+                    "answers" : ["Elaine Thompson",
+                     "Shelly-Ann",
+                     "Shericka Jackson",
+                     "Shelinda Herah"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 7,
+            "name": "Earth",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "The seasonal contrasts are maximum in?",
+                    "TAnswer": "Mid latitudes",
+                    "answers" : ["Low latitudes",
+                     "Mid latitudes",
+                     "Sub tropics",
+                     "High Latitudes"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "For a time difference of two hours, the longitudinal distance will be equal to?",
+                    "TAnswer": "30°",
+                    "answers" : ["15°",
+                     "30°",
+                     "45°",
+                     "60°"
+                      ]                
+                },
+                {
+                    "id" : 3,
+                    "question": "What is the difference between the Local time and Greenwich time one degree longitude?",
+                    "TAnswer": "4 min",
+                    "answers" : ["2 min",
+                     "4 min",
+                     "6 min",
+                     "8 min"
+
+             ]   },
+                {
+                    "id" : 4,
+                    "question": "Which star is nearest to the Earth?",
+                    "TAnswer": "Sun",
+                    "answers" : ["Alpha Centauri",
+                     "Pole star",
+                     "Chitra",
+                     "Sun"
+  ]                  
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "The International Date Line passes through?",
+                    "TAnswer": "Bering strait",
+                    "answers" : ["Bering strait",
+                     "Gibraltar strait",
+                     "Florida strait",
+                     "Malacca strait"]
+
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 8,
+            "name": "Presidents",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Ibrahim Boubacar Keita, who has recently resigned, was the President of which country?",
+                    "TAnswer": "Mali",
+                    "answers" : ["Mali",
+                     "Indonesia",
+                     "Maldives",
+                     "Qatar"
+
+       ]         },
+                {
+                    "id" : 2,
+                    "question": "U.S President Joe Biden announced to end the country’s support for Saudi-led military operations in which country?",
+                    "TAnswer": "Yemen",
+                    "answers" : ["Iran",
+                     "Yemen",
+                     "Sudan",
+                     "Afghanistan"
+         ]       },
+                {
+                    "id" : 3,
+                    "question": "Who was the youngest person to become president of the United States?",
+                    "TAnswer": "John F Kennedy",
+                    "answers" : ["John F Kennedy",
+                     "Theodore Roosevelt",
+                     "Bill Clinton",
+                     "Barack Obama"]
+                    
+
+
+
+                },
+                {
+                    "id" : 4,
+                    "question": "How long is the presidential term in the USA? ",
+                    "TAnswer": "4 Years",
+                    "answers" : ["5 Years",
+                     "4 Years",
+                     "6 Years",
+                     "3 Years"
+      ]          }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the name of the US President’s office? ",
+                    "TAnswer": "The Oval Office",
+                    "answers" : ["The White House",
+                     "The Dallas",
+                     "The Oval Office",
+                     "The Balfour"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 9,
+            "name": "Local Media",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the oldest TV channel in Sri Lanka?",
+                    "TAnswer": "The ITN",
+                    "answers" : ["Rupavahini",
+                     "The ITN",
+                     "Rangiri",
+                     "TNL"
+
+      ]          },
+                {
+                    "id" : 2,
+                    "question": "What is the first private TV channel in Sri Lanka?",
+                    "TAnswer": "TNL",
+                    "answers" : ["Sirasa",
+                     "TNL",
+                     "Siyatha",
+                     "Swarnavahini"
+      ]          },
+                {
+                    "id" : 3,
+                    "question": "What is the first newspaper in Sri Lanka?",
+                    "TAnswer": "Lakmini Pahana",
+                    "answers" : ["Lankarawaya",
+                     "Lakmini Pahana",
+                     "Siyadesa",
+                     "Randiwa"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What is the first radio channel in Sri Lanka?",
+                    "TAnswer": "Radio Colombo",
+                    "answers" : ["Rajarata sewaya",
+                     "Radio Colombo",
+                     "Lakhada",
+                     "Radio ceylon"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the first English paper in Sri Lanka?",
+                    "TAnswer": "The Times of Ceylon",
+                    "answers" : ["The colombo",
+                     "Lanka Times",
+                     "The Times of Ceylon",
+                     "Daily Mirror"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 10,
+            "name": "Billionars",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who is the 3rd Richest person in the World",
+                    "TAnswer": "Gautam Adani",
+                    "answers" : ["Jeff Bezos",
+                     "Bernard Arnault",
+                     "Gautam Adani",
+                     "Bill Gates"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who is the world's richest singer?",
+                    "TAnswer": "Kanye West",
+                    "answers" : ["Madonna.",
+                     "Rihanna",
+                     "Kanye West",
+                     "P-Diddy."
+ ]               },
+                {
+                    "id" : 3,
+                    "question": "Who is co-founder & chairman of LVMH?",
+                    "TAnswer": "Bernard Arnault",
+                    "answers" : ["Warren Buffett",
+                     "Bernard Arnault",
+                     "Larry Page",
+                     "Jeff Bezos"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is CEO of Berkshire Hathaway?",
+                    "TAnswer": "Warren Buffett",
+                    "answers" : ["Warren Buffett",
+                     "Bernard Arnault",
+                     "Larry Page",
+                     "Jeff Bezos"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who was known as the `Oracle of Omaha`",
+                    "TAnswer": "Warren Buffett",
+                    "answers" : ["Warren Buffett",
+                     "Bernard Arnault",
+                     "Larry Page",
+                     "Jeff Bezos"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 11,
+            "name": "film production companies",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which movie that paramount pictures films produced?",
+                    "TAnswer": "Top Gun: Maverick",
+                    "answers" : ["Top Gun: Maverick",
+                     "F9",
+                     "Beast",
+                     "Jurrasic world"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the highest grossing film for Universal Pictures?",
+                    "TAnswer": "Jurassic World",
+                    "answers" : ["Minions",
+                     "Beast",
+                     "Jurassic World",
+                     "F9"
+      ]          },
+                {
+                    "id" : 3,
+                    "question": "Where are universal films made?",
+                    "TAnswer": "California",
+                    "answers" : ["California",
+                     "Chicago",
+                     "Houstan",
+                     "Texsas"
+    ]            },
+                {
+                    "id" : 4,
+                    "question": "What Disney movie has sold the most?",
+                    "TAnswer": "The Lion King",
+                    "answers" : ["Frozen II",
+                     "The Lion King",
+                     "Incredibles 2",
+                     "Frozen"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is Netflix's most watched show of all time?",
+                    "TAnswer": "Squid Game",
+                    "answers" : ["Squid Game",
+                     "Stranger Things",
+                     "Dahmer",
+                     "Money-heist"]
+ 
+                }
+            ]
+        }
+       
+        
+    ],
+
+
+    "ThreeAnswers1" : [
+        {
+            "id" : 1,
+            "name": "Cricket",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which country will host the 2023 cricket world cup?",
+                    "TAnswer": "India",
+                    "answers" : ["England",
+                     "India",
+                     "South Africa"]
+
+
+                },
+                {
+                    "id" : 2,
+                    "question": "International Cricket Council (ICC) headquarters is located in?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Dubai",
+                     "London",
+                     "Melbourne"]
+                    
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Who was the First Pakistani Player to have a hundred in T20Is?",
+                    "TAnswer": "Ahmed Shehzad",
+                    "answers" : ["Mohammad Hafeez",
+                     "Farkar Zaman",
+                     "Ahmed Shehzad"
+                  
+]
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is the bowler which fastest to get 100 ODI wickets?",
+                    "TAnswer": "Rashid Khan",
+                    "answers" : ["Rashid Khan",
+                     "Mitchell Starc",
+                     "Shahid Afridi"
+                  
+
+ ]               }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Australia won The Ashes series, 2017-18 by?",
+                    "TAnswer": "4-0",
+                    "answers" : ["3-2",
+                     "3-1",
+                     "4-0"]
+                    
+                }
+           ] 
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Social media",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "what social network is considered the most popular for business to business marketing",
+                    "TAnswer": "LinkedIn",
+                    "answers" : ["Facebook",
+                     "LinkedIn",
+                     "Orkut"]
+                    
+                },
+                {
+                    "id" : 2,
+                    "question": "What feature announced by Facebook in 2013?",
+                    "TAnswer": "Clickable hashtags",
+                    "answers" : ["Facebook Home",
+                     "Facebook Graph Search",
+                     "Clickable hashtags"        ]  
+
+                },
+                {
+                    "id" : 3,
+                    "question": "When was the first launch of Facebook?",
+                    "TAnswer": "In 2004",
+                    "answers" : ["In 2004",
+                     "In 2003",
+                     "In 2005"]
+
+                },
+                {
+                    "id" : 4,
+                    "question": "What is the name of a fee-based communications tool that aims to (connect everyone) while at work announced by Facebook?",
+                    "TAnswer": "Workplace",
+                    "answers" : ["LinkedIn",
+                     "Oculus Connect",
+                     "Workplace"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which of the following is not Twitter subsudary?",
+                    "TAnswer": "Snapchat",
+                    "answers" : ["Periscope",
+                     "Vine",
+                     "Snapchat"]
+
+                }
+            ]
+           },
+
+
+        {
+            "id" : 3,
+            "name": "Players",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What year did Ronaldo first won his Ballon d'Or and FIFA World Player of the Year awards?",
+                    "TAnswer": "2008",
+                    "answers" : ["2009",
+                     "2008",
+                     "2010"                              
+
+                ]},
+                {
+                    "id" : 2,
+                    "question": "Who was 2nd most top goal hitter in football?",
+                    "TAnswer": "Josef Bican",
+                    "answers" : ["Josef Bican",
+                     "Lionel Messi",
+                     "Cristiano Ronaldo"]
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Who is the youngest Ballon d'Or winner?",
+                    "TAnswer": "Ronaldo Nazario",
+                    "answers" : ["Ronaldo Nazario",
+                     "Lionel Messi",
+                     "Johan Cruyff"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is the 1 best basketball player of all time?",
+                    "TAnswer": "Michael Jordan",
+                    "answers" : ["Wilt Chamberlain",
+                     "Michael Jordan",
+                     "Bill Russell"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who is the youngest player in the NBA in 2022-23",
+                    "TAnswer": 7.50,
+                    "answers" : ["Will O'Neal",
+                     "Larry Bird",
+                     "Jalen Duren"]
+                }
+         ]   
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Universities",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Where was Oxford university situated?",
+                    "TAnswer": "United Kingdom",
+                    "answers" : ["United Kingdom",
+                     "USA",
+                     "Walse"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which university was not at USA?",
+                    "TAnswer": "Columbia University",
+                    "answers" : ["Harvard University",
+                     "Columbia University",
+                     "Stanford University"
+   ]             },
+                {
+                    "id" : 3,
+                    "question": "Which university that Tiger woods consider as notable alumini?",
+                    "TAnswer": "Stanford University",
+                    "answers" : ["University of Cambridge",
+                     "Stanford University",
+                     "University of Calif]ornia"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which university Mark Zuckerberg dropshis higher education?",
+                    "TAnswer": "Harvard University",
+                    "answers" : ["Harvard University",
+                     "Oxford University",
+                     "Cambridge University"
+    ]            }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which university awarded an honorary doctorate to Bill Gates but never completed his bachelor's degree?",
+                    "TAnswer": "Harvard University",
+                    "answers" : ["Harvard University",
+                     "Oxford University",
+                     "Cambridge University"
+    ]            }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 5,
+            "name": "Web series",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was web series that Mr. Bean act?",
+                    "TAnswer": "Man vs. Bee",
+                    "answers" : ["Man vs. Bee",
+                     "God's man",
+                     "Big Mouth"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the Japanease web series out of there?",
+                    "TAnswer": "SPY×FAMILY",
+                    "answers" : ["Vincenzo",
+                     "SPY×FAMILY",
+                     "Melo Is My Nature"]
+                },
+               {
+                    "id" : 3,
+                    "question": "What was genre of `See` web series",
+                    "TAnswer": "Sci-fi",
+                    "answers" : ["Romance",
+                     "Sci-fi",
+                     "Horror"]
+                },
+                {
+                   "id" : 4,
+                    "question": "Which one of these are indian thriller series?",
+                    "TAnswer": "Family man",
+                    "answers" : ["Helstorm",
+                     "Trapped",
+                     "Family man"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the third television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios",
+                    "TAnswer": "Loki",
+                    "answers" : ["She-hulk",
+                     "Loki",
+                     "Ms.Marvel"]
+                }
+            
+      ]  }
+
+        ,
+
+
+        {
+            "id" : 6,
+            "name": "Flags",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many all the flags in the world?",
+                    "TAnswer": "193",
+                    "answers" : ["195",
+                     "198",
+                     "193"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "How many flags are on the moon?",
+                    "TAnswer": "6",
+                    "answers" : ["4",
+                     "8",
+                     "6"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Which is the oldest flag in the world?",
+                    "TAnswer": "of Denmark",
+                    "answers" : ["of Sweden",
+                     "of Denmark",
+                     "of France"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which country flies the largest flag?",
+                    "TAnswer": "Mexico",
+                    "answers" : ["USA",
+                     "Mexico",
+                     "Brazil"]
+                    
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the most unique flag?",
+                    "TAnswer": "Nepal",
+                    "answers" : ["Nepal",
+                     "Mexico",
+                     "Brazil"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 7,
+            "name": "Dates",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was date for World Cancer Day",
+                    "TAnswer": "Feb 4",
+                    "answers" : ["Jan 5",
+                     "Feb 4",
+                     "Apr 6"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the International Women's Day",
+                    "TAnswer": "Mar 8",
+                    "answers" : ["Feb 12",
+                     "Mar 8",
+                     "Jun 15"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What was the World Health Day",
+                    "TAnswer": "Apr 7",
+                    "answers" : ["Apr 7",
+                     "Mar 8",
+                     "Jun 15"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the Independence Day of India",
+                    "TAnswer": "Aug 15",
+                    "answers" : ["Apr 7",
+                     "Mar 8",
+                     "Aug 15"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the World Food Day",
+                    "TAnswer": "Oct 16",
+                    "answers" : ["Apr 7",
+                     "Oct 16",
+                     "Aug 15"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 8,
+            "name": "Scooby doo",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is Scooby-Doo's legal name?",
+                    "TAnswer": "Scoobert Doo",
+                    "answers" : ["Scoobert Doo",
+                     "Scooby-Dooby-Doo",
+                     "Scooby Doo"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What race is Scooby-Doo?",
+                    "TAnswer": "Great Dane",
+                    "answers" : ["Great Dane",
+                     "English Mastiff",
+                     "Saint Bernard"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who is the oldest in Scooby-Doo?",
+                    "TAnswer": "Shaggy",
+                    "answers" : ["Fred",
+                     "Shaggy",
+                     "Velma"]
+                },
+                {
+                   "id" : 4,
+                    "question": "When was the First appearance of Scooby-Doo? ",
+                    "TAnswer": "1969",
+                    "answers" : ["1994",
+                     "1969",
+                     "1982"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who was the original voice actor for Shaggy?",
+                    "TAnswer":"Casey Kasem",
+                    "answers" : ["Neil Fanning",
+                     "Danny Bage",
+                     "Casey Kasem"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 9,
+            "name": "Harry potter",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many novells in Harry-potter series",
+                    "TAnswer": "7",
+                    "answers" : ["6",
+                     "8",
+                     "7"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What spell did Harry use to kill Lord Voldemort?",
+                    "TAnswer": "Expelliarmus",
+                    "answers" : ["Expelliarmus",
+                     "Expecto Patronum",
+                     "Avada Kedavra"
+                  ]  
+                },
+                {
+                    "id" : 3,
+                    "question": "What position does Harry play on his Quidditch team?",
+                    "TAnswer": "Seeker",
+                    "answers" : ["Bludger",
+                     "Chaser",
+                     "Seeker"]
+                    
+
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the name of the Black family’s house elf?",
+                    "TAnswer": "Kreacher",
+                    "answers" : ["Kreacher",
+                     "Dobby",
+                     "Winky"]
+                    
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which element is associated with Hufflepuff?",
+                    "TAnswer": "Earth",
+                    "answers" : ["Fire",
+                     "Earth",
+                     "Water"]
+                    
+
+                }
+           ]
+        }
+
+        ,
+
+
+        {
+            "id" : 10,
+            "name": "Russia",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which of the following Russian cities is farthest North?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Moscow",
+                     "St. Petersburg",
+                     "Magadan"
+                    
+           ]     },
+                {
+                    "id" : 2,
+                    "question": "Which of these rivers is the longest?",
+                    "TAnswer": "Lena",
+                    "answers" : ["Amur",
+                     "Dnieper",
+                     "Lena"]
+
+                },
+                {
+                    "id" : 3,
+                    "question": "What is Russia's parliament called, which is equivalent to America's Cogress?",
+                    "TAnswer": "Duma",
+                    "answers" : ["Duma",
+                     "Knesset",
+                     "Diet"]
+                    
+                },
+                {
+                    "id" : 4,
+                    "question": "The strait separating Russia from Alaska is?",
+                    "TAnswer": "Bering strait",
+                    "answers" : ["Bering strait",
+                     "Torres strait",
+                     "Luzon strait"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Russia does not share its boundary with?",
+                    "TAnswer": "Polland",
+                    "answers" : ["Mongolia",
+                     "Polland",
+                     "Kazakastan"]
+
+                }
+            ]
+       }
+       
+        ,
+
+
+        {
+            "id" : 11,
+            "name": "Prison Break",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who was the real actor name as Poseidon?",
+                    "TAnswer": "Jacob Ness",
+                    "answers" : ["Peter Stormare",
+                     "Jacob Ness",
+                     "Robert Knepper"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Lincoln Burrows is accused or killing?",
+                    "TAnswer": "Terrence Steadman",
+                    "answers" : ["Mark Steadman",
+                     "Terrence Steadman",
+                     "Rsymond Steadman"
+
+            ]    },
+                {
+                    "id" : 3,
+                    "question": "LanIn which country is Michael in jail for the fifth season?d",
+                    "TAnswer":  "Yemen",
+                    "answers" : ["Iraq",
+                     "Yemen",
+                     "Saudi Arabia"]
+
+                },
+                {
+                    "id" : 4,
+                    "question": "What was Michael’s job before he was arrested?",
+                    "TAnswer": "structural engineer",
+                    "answers" : ["structural engineer",
+                     "architect",
+                     "Computer engineer"
+
+             ]   }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who says `I will gun you down Scofield`?",
+                    "TAnswer": "Captain Bellick",
+                    "answers" : ["Paul Kellerman",
+                     "Agent Mahone",
+                     "Captain Bellick"
+                  ]  
+                }
+            ]
+        }
+    ]
+               
+    ,
+
+    "ThreeAnswers2" : [
+        {
+            "id" : 1,
+            "name": "Rugbhy",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many points is a penalty kick worth ?",
+                    "TAnswer": "3 points",
+                    "answers" : ["5 points",
+                     "4 points",
+                     "3 points"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which word is  often use for rugby field?",
+                    "TAnswer": "Pitch",
+                    "answers" : ["Pitch",
+                     "Venue",
+                     "course"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What was the full time of rugby match?",
+                    "TAnswer": "80 min",
+                    "answers" : ["90 min",
+                     "100 min",
+                     "80 min"]
+                },
+                {
+                   "id" : 4,
+                    "question": "Who was the highest point scorer in rugby?",
+                    "TAnswer": "Dan Carter",
+                    "answers" : ["Dan Carter",
+                     "Jonny Wilkinson",
+                     "Owen Farrell"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many players in a rugby team?",
+                    "TAnswer": "15",
+                    "answers" : ["13",
+                     "15",
+                     "16"]
+                }
+            ]
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Novels",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who wrote book called `Yuganthaya`",
+                    "TAnswer": "Martin Wickramasinghe",
+                    "answers" : ["Mahagamasekara",
+                     "Martin Wickramasinghe",
+                     "W.A Silva"
+
+              ]  },
+                {
+                    "id" : 2,
+                    "question": "Which book was not belong to `Mahagamasekara`",
+                    "TAnswer": "Kaliyugaya",
+                    "answers" : ["Prabuddha",
+                     "Tuṇmaṇhandiya",
+                     "Kaliyugaya"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who is the father of modern Sinhala literature?",
+                    "TAnswer": "Martin Wickramasinghe",
+                    "answers" : ["Mahagamasekara",
+                     "Martin Wickramasinghe",
+                     "W.A Silva"
+               ] },
+                {
+                    "id" : 4,
+                    "question": "What is the 1st novel in Sri Lanka?",
+                    "TAnswer": "Meena",
+                    "answers" : ["Viragaya",
+                     "Meena",
+                     "Kaliyugaya"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the most read novel?",
+                    "TAnswer": "The Harry Potter Series",
+                    "answers" : ["Animal Farm",
+                     "The Lord of The Rings",
+                     "The Harry Potter Series"
+
+   ]             }
+            ]
+        },
+
+
+        {
+            "id" : 3,
+            "name": "singers",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "which was not a song of kasun kalhara?",
+                    "TAnswer": "sanda Pahana",
+                    "answers" : ["Radical Premaya",
+                     "Adara Malwala ",
+                     "sanda Pahana"
+                 
+]
+                },
+                {
+                    "id" : 2,
+                    "question": "Which was not a song album of Rookantha gunathilaka?",
+                    "TAnswer": "Lassanai Adare",
+                    "answers" : ["Lassanai Adare",
+                     "Maaime Idan",
+                     "Adara Mal Pawane"]
+                },
+                {
+                    "id" : 3,
+                    "question": "which of song be a duet in original singing?",
+                    "TAnswer": "Ahasin eha",
+                    "answers" : ["Anganaawo",
+                     "Ahasin eha",
+                     "Gimhaana Kale"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the first song album of BNS?",
+                    "TAnswer": "Vasanthaye",
+                    "answers" : ["Tharunyaye",
+                     "Vasanthaye",
+                     "Neththara"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": " Who was sung by සේල ඇන්දම මාල බැන්දම song?",
+                    "TAnswer": "WAYO",
+                    "answers" : ["Marians",
+                     "WAYO",
+                     "BILLY With 242"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Famous Companies",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Where are the headquarters of Tesla situated in?",
+                    "TAnswer": "Texas",
+                    "answers" : ["Chicago",
+                     "Texas",
+                     "Houston"]
+
+                },
+                {
+                   "id" : 2,
+                    "question": "What was country Mercedez benz based for?",
+                    "TAnswer": "Germany",
+                    "answers" : ["Germany",
+                     "France",
+                     "Italy"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who was founder of Huawei Technologies?",
+                    "TAnswer": "Ren Zhengfei",
+                    "answers" : ["Kia Shenzhen",
+                     "Liang Hua",
+                     "Ren Zhengfei"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What is Apple's latest update?",
+                    "TAnswer": "Apple's iOS 16",
+                    "answers" : ["Apple's iOS 17",
+                     "Apple's iOS 15",
+                     "Apple's iOS 16"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who was the CEO OF Google LLC?",
+                    "TAnswer": "Sundar Pichai",
+                    "answers" : ["Satya Nadella",
+                     "Sundar Pichai",
+                     "Parag Agrawal"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 5,
+            "name": "Airports",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which is worlds biggest airport?",
+                    "TAnswer": "King Fahd Airport",
+                    "answers" : ["King Fahd Airport",
+                     "Atlanta Airport",
+                     "Heathrow Airport"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What is the world's busiest airport in 2022?",
+                    "TAnswer": "Dubai",
+                    "answers" : ["Dubai",
+                     "Heathrow",
+                     "Atlantas"]
+                },
+                {
+                    "id" : 3,
+                    "question": "what country mostly tourists come from to dubai airport 2021",
+                    "TAnswer": "India",
+                    "answers" : ["India",
+                     "France",
+                     "China"]
+                },
+                {
+                   "id" : 4,
+                    "question": "What is the second biggest airport in the world.",
+                    "TAnswer": "Denver",
+                    "answers" : ["Dubai",
+                     "Heathrow",
+                     "Denver"]
+                }
+                ,
+               {
+                    "id" : 5,
+                    "question": "What was world's Best Airport for Passenger Security Screening in 2022.",
+                    "TAnswer": "Zurich",
+                    "answers" : ["Dubai",
+                     "Heathrow",
+                     "Zurich"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 6,
+            "name": "symbols",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was the national flower of india?",
+                    "TAnswer": "Lotus",
+                    "answers" : ["Lotus",
+                     "Temple flower",
+                     "Orchid"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the symbol of ferrai logo?",
+                    "TAnswer": "Horse",
+                    "answers" : ["Tiger",
+                     "Horse",
+                     "Eagle"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Which country's flag displays a white cross in the centre of a square red field?",
+                    "TAnswer": "Switzerland",
+                    "answers" : ["Poland",
+                     "Finland",
+                     "Switzerland"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which of the flag that not include crescent moon?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Singappore",
+                     "Iran",
+                     "Algeria"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was National Motto of insia?",
+                    "TAnswer": "Satyameva Jayate",
+                    "answers" : ["Jana Gana Mana",
+                     "Vande Mataram",
+                     "Satyameva Jayate"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 7,
+            "name": "Years",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What the year that happened 9/11 attack on World Trade Center?",
+                    "TAnswer": "2001",
+                    "answers" : ["2000",
+                     "2002",
+                     "2001"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What the year that happened Fukushima Daiichi Nuclear Disaster?",
+                    "TAnswer": "2011",
+                    "answers" : ["2014",
+                     "2011",
+                     "2009"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What the year that happened Reveals Secrets by Snowden?",
+                    "TAnswer": "2013",
+                    "answers" : ["2015",
+                     "2013",
+                     "2011"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the year that Trump Elected as president?",
+                    "TAnswer": "2016",
+                    "answers" : ["2018",
+                     "2016",
+                     "2014"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the year that Bin Laden Killed?",
+                    "TAnswer": "2011",
+                    "answers" : ["2012",
+                     "2008",
+                     "2011"]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 8,
+            "name": "Tin Tin",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the name of the residence that the Captain and Professor Calculus live in?",
+                    "TAnswer": "Marlinspike",
+                    "answers" : ["Marlinspike",
+                     "Picaros",
+                     "Labrador"
+                     
+           ]         
+                },
+                {
+                    "id" : 2,
+                    "question": "What are the Captain's favourite two words?",
+                    "TAnswer": "Blistering barnacles",
+                    "answers" : ["Great snakes",
+                     "Blubbering blizzards",
+                     "Blistering barnacles"        ]             
+
+ 
+                },
+                {
+                    "id" : 3,
+                    "question": "What is Captain Haddock's first name?",
+                    "TAnswer": "Archibald",
+                    "answers" : ["William",
+                     "Archibald",
+                     "Herbert"
+                                    ]              
+                   
+                },
+                {
+                    "id" : 4,
+                    "question": "What does Professor Calculus hate being called, or being told he acts like, by the Captain?",
+                    "TAnswer": "A goat",
+                    "answers" : ["An ass",
+                     "A goat",
+                     "A horse"]
+            
+ 
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who is Tintin's biggest enemy?",
+                    "TAnswer": "Rastapopoulos",
+                    "answers" : ["Muller",
+                     "Rastapopoulos",
+                     "Colonel Sponz"  ]                 
+
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 9,
+            "name": "Pirates of caribians",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Whose blood did pirates need to break the curse?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Will Turner",
+                     "Elizabeth Swann",
+                     "Jack Sparrow"
+                    
+]
+
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Where does the royal family of Elizabeth Swann live and rule?",
+                    "TAnswer": "Port Royal",
+                    "answers" : ["Isla da Muerte",
+                     "Port Royal",
+                     "Port Arthur"]
+ 
+                },
+                {
+                    "id" : 3,
+                    "question": "What was the common disease on the set?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Seasickness",
+                     "Malaria",
+                     "Flu"   
+                                   ]                        
+                },
+                {
+                    "id" : 4,
+                    "question": "When was the first movie of the series released?",
+                    "TAnswer": "2003",
+                    "answers" : ["2001",
+                     "2003",
+                     "2002"  ] 
+                    
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What did Depp seriously changed in his look for the role of Jack Sparrow?",
+                    "TAnswer": "Teeth",
+                    "answers" : ["Teeth",
+                     "Nose",
+                     "Hair"
+                                              ]            
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 10,
+            "name": "China",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "When did China get back Hong Kong?",
+                    "TAnswer": "1997",
+                    "answers" : ["1977",
+                     "1982",
+                     "1997"]
+ 
+                },
+                {
+                    "id" : 2,
+                    "question": "Which country is considered a renegade province by China?",
+                    "TAnswer": "Taiwan",
+                    "answers" : ["North Korea",
+                     "Taiwan",
+                     "South Korea"
+                  
+            ]    },
+                {
+                    "id" : 3,
+                    "question": "Which nation does not share a border with China?",
+                    "TAnswer": "Taiwan",
+                    "answers" : ["Mongolia",
+                     "Tajikistan",
+                     "Taiwan"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What is the national game of china?",
+                    "TAnswer":"Table Tennis",
+                    "answers" : ["Badminton",
+                     "Hockey",
+                     "Table Tennis"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the Border name of India and China?",
+                    "TAnswer": "McMohan Line",
+                    "answers" : ["BharatChe Line",
+                     "McMohan Line",
+                     "Radcliffe Line" ]
+                }
+            ]
+        }
+
+        ,
+
+
+        {
+            "id" : 11,
+            "name": "Games of thrones",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many kingdoms are there in Westeros continent?",
+                    "TAnswer": "7",
+                    "answers" : ["5",
+                     "7",
+                     "3"]
+
+
+                },
+                {
+                   "id" : 2,
+                    "question": "Which novel series is Game of Thrones based on?",
+                    "TAnswer": "A Song of Ice and Fires",
+                    "answers" : ["The Winds of Winter",
+                     "Nightflyers",
+                     "A Song of Ice and Fires"
+      ]            
+
+                },
+                {
+                    "id" : 3,
+                    "question": "What is the fictional place where most of the Game of Thrones is set?",
+                    "TAnswer": "Seven Kingdoms of Westeros",
+                    "answers" : ["Seven Kingdoms of Westeros",
+                     "The Drone Areas",
+                     "Island of Madagascar"]
+                  
+                },
+                {
+                    "id" : 4,
+                    "question": "What is the last name of Bastards in Dorne?",
+                    "TAnswer": "Sand",
+                    "answers" : ["Soil",
+                     "Sand",
+                     "Sea"   ]                
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who shot the burning arrow at Hoster Tully's Funeral?",
+                    "TAnswer": "Brynden Tully",
+                    "answers" : ["Edmure Tully",
+                     "Lord Karstark",
+                     "Brynden Tully"]
+                    
+                }
+            ]
+        }
+    ]
+         
+    ,
+
+    "TwoAnswers1" : [
+        {
+            "id" : 1,
+            "name": "Economy",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which country is the leading exporter of Basmati Rice to the global market as of 2021-22?",
+                    "TAnswer": "India",
+                    "answers" : ["China",
+                     "India"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which of the following types of economy describes the economy of the UK?",
+                    "TAnswer": "A mixed economy",
+                    "answers" : ["A mixed economy",
+                     "A command economy"]
+
+                },
+                {
+                    "id" : 3,
+                    "question": "In the short-run, which of the following always gets smaller as output increases?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Short-run marginal cost",
+                     "Average fixed cost"]
+
+                },
+                {
+                    "id" : 4,
+                    "question": "The main watch dog of international trade is?",
+                    "TAnswer": "WTO",
+                    "answers" : ["WTO",
+                     "IMF"]
+
+                }
+                ,
+                {
+                    "id]" : 5,
+                    "question": "Which country get the highest ranking in the lastest list published by World Bank for GDP per capital?",
+                    "TAnswer": "Luxembourg",
+                    "answers" : ["Luxembourg",
+                     "Norway"]
+
+                }
+            ]
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Israel",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is depicted on the emblem of the State of Israel?",
+                    "TAnswer": "Menorah",
+                    "answers" : ["David's star",
+                     "Menorah"]
+ 
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which country supported Israel in the development of Iron Dome?",
+                    "TAnswer": "USA",
+                    "answers" : ["USA",
+                     "Russia"]
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Which star appears on the flag of Israel?",
+                    "TAnswer": "Star of David",
+                    "answers" : ["star of Bethlehem",
+                     "Star of David"]
+                    
+                },
+                {
+                    "id" : 4,
+                    "question": "Which is the currency of Israel?",
+                    "TAnswer": "Shekel",
+                    "answers" : ["Shekel",
+                     "Rouble"]
+ 
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which is the official language of Israel?",
+                    "TAnswer": "Hebrew",
+                    "answers" : ["Arabic",
+                     "Hebrew"]
+
+                }
+            ]
+            
+        },
+
+
+        {
+            "id" : 3,
+            "name": "Michael Jackson",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which was Michael Jackson’s first album?",
+                    "TAnswer": "Got to be There",
+                    "answers" : ["Off the Wall",
+                     "Got to be There"]
+                
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Which movie did Michael Jackson contribute a song to as the soundtrack?",
+                    "TAnswer": "ET",
+                    "answers" : ["Poltergeist",
+                     "ET"]
+                    
+                },
+                {
+                    "id" : 3,
+                    "question": "Which Michael Jackson music video features dancing zombies?",
+                    "TAnswer": "Thriller",
+                    "answers" : ["Thriller",
+                     "Beat it"]
+ 
+                },
+                {
+                    "id" : 4,
+                    "question": "How many singles did Michael Jackson release throughout his career?",
+                    "TAnswer": "13",
+                    "answers" : ["18",
+                     "13"]
+
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the name of Michael Jackson’s ranch?",
+                    "TAnswer": "Neverland",
+                    "answers" : ["Neverland",
+                     "Xanadu"]
+
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Gossips",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who was recently married couple in bollywood?",
+                    "TAnswer": "Ranbir-Aliya",
+                    "answers" : ["Ranbir-Aliya",
+                     "Varun-Natasha"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was latest movie of Siddarth malhothra?",
+                    "TAnswer": "Thank god",
+                    "answers" : ["Bedhiya",
+                     "Thank god"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who is loving couple in Shershah movie?",
+                    "TAnswer": "Sid-Kiara",
+                    "answers" : ["Sid-Aliya",
+                     "Sid-Kiara"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is the main actor of LIGER?",
+                    "TAnswer": "Vijay D'konda",
+                    "answers" : ["Tiger Sheroff",
+                     "Vijay D'konda"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which was upcoming movie of SRK?",
+                    "TAnswer": "Dunki",
+                    "answers" : ["Dunki",
+                     "Yodha"]
+                }
+            ]
+        }
+        ,
+
+        {
+            "id" : 5,
+            "name": "Local map",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Where is the province which foul point situated?",
+                    "TAnswer": "Eastern",
+                    "answers" : ["Northern",
+                     "Eastern"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Where is the province which chundikulam bird santuary situated?",
+                    "TAnswer": "Northern",
+                    "answers" : ["Northern",
+                     "Eastern"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What is the highest village in Sri Lanka?",
+                    "TAnswer": "Shanthipura",
+                    "answers" : ["Padiyathalawa",
+                     "Shanthipura"]
+                },
+                {
+                    "id]" : 4,
+                    "question": "Where was pigeon island situated?",
+                    "TAnswer": "Tricomalee",
+                    "answers" : ["Puttalam",
+                     "Tricomalee"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Where was Kovalam Lighthouse situated?",
+                    "TAnswer": "Karaitivu",
+                    "answers" : ["Muthur",
+                     "Karaitivu"]
+                   
+                }
+            ]
+        }
+        ,
+
+        {
+            "id" : 6,
+            "name": "Lasith Malinga",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was the country which malinga get 4 wickets in 4 balls in T20?",
+                    "TAnswer": "New Zealand",
+                    "answers" : ["South Africa",
+                     "New Zealand"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was T20 world-cup title that Srilanka win under Malinga Captancy?",
+                    "TAnswer": "2014",
+                    "answers" : ["2012",
+                     "2014"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What was ODI series which malinga played before retirement?",
+                    "TAnswer": "Bangladesh",
+                    "answers" : ["Bangladesh",
+                     "West Indies"]
+                },
+                {
+                    "id" : 4,
+                    "question": "When Malinga announced his retirement from all forms of cricket?",
+                    "TAnswer": "2021 SEP",
+                    "answers" : ["2021 SEP",
+                     "2021 DEC"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many hat-tricks did malinga have in ODI cricket",
+                    "TAnswer": "3",
+                    "answers" : ["4",
+                     "3"]
+                   
+                }
+            ]
+        }
+        ,
+
+        {
+            "id" : 7,
+            "name": "Buildings",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the world's largest office building?",
+                    "TAnswer": "Pentagon",
+                    "answers" : ["Grand Kremlin",
+                     "Pentagon"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Where is Red square building located?",
+                    "TAnswer": "China",
+                    "answers" : ["Japan",
+                     "China"]
+                },
+                {
+                    "id" : 3,
+                    "question": "In which US city is the White House?",
+                    "TAnswer": "Washington",
+                    "answers" : ["NewYork",
+                     "Washington"]
+                },
+                {
+                    "id" : 4,
+                    "question": "In which Indian state is the Taj Mahal located?",
+                    "TAnswer": "Uttar Pradesh",
+                    "answers" : ["Uttar Pradesh",
+                     "Maharashtra"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Out of these buildings,which is in france?",
+                    "TAnswer": "Louvre Pyramid",
+                    "answers" : ["Verona arena",
+                     "Louvre Pyramid"]
+                   
+                }
+            ]
+        }  ,
+
+        {
+            "id" : 8,
+            "name": "Nobel Prices",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which of the following awards is also known as Alternative Nobel Prize?",
+                    "TAnswer": "Right Livelihood",
+                    "answers" : ["Pulitzer",
+                     "Right Livelihood"]
+                    
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who was first African-American woman to win the Nobel Prize for Literature?",
+                    "TAnswer": "Toni Morrison",
+                    "answers" : ["Jennifer Doudna",
+                     "Toni Morrison"]
+                 
+                    
+            },
+                {
+                    "id" : 3,
+                    "question": "Which of the following awards is known as Mathematicians' Nobel Prize?",
+                    "TAnswer": "Abel Prize",
+                    "answers" : ["Rolf Nevanlinna Prize",
+                     "Abel Prize"]
+                 
+
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is the most famous Nobel Prize winner?",
+                    "TAnswer": "Martin Luther King",
+                    "answers" : ["Martin Luther King",
+                     "Benjamin Julius"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who was both Oscar and a Nobel Prize winner?",
+                    "TAnswer": "Bob Dylan",
+                    "answers" : ["Linus Pauling",
+                     "Bob Dylan"]
+                   
+                }
+            ]
+        }  ,
+
+        {
+            "id" : 9,
+            "name": "Tennis",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which Grand Slam tournament is annually held in January?",
+                    "TAnswer": "Australian Open",
+                    "answers" : ["French Open",
+                     "Australian Open"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What is it called when the score is 40 – 40?",
+                    "TAnswer": "Deuce",
+                    "answers" : ["Draw",
+                     "Deuce"]
+                },
+
+                
+                {
+                    "id" : 3,
+                    "question": "Which tennis player won runners-up in Men’s Singles at 2021 Wimbledon?",
+                    "TAnswer": "Matteo Berrettini",
+                    "answers" : ["Matteo Berrettini",
+                     "Andy Murray"]
+                },
+                {
+                    "id" : 4,
+                    "question": "How many Grand Slam titles has Roger Federer won so far?",
+                    "TAnswer": "20",
+                    "answers" : ["20",
+                     "22"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Novak Djokovic comes from which nation?",
+                    "TAnswer": "Siberia",
+                    "answers" : ["Siberia",
+                     "Spain"]
+                   
+                }
+            ]
+        }  ,
+
+        {
+            "id" : 10,
+            "name": "Leaders",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Who is the Emperor of Japan",
+                    "TAnswer": "Naruhito",
+                    "answers" : ["Naruhito",
+                     "Akihito"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "How many Sovereign states in the world with a monarch as head of state.",
+                    "TAnswer": "43",
+                    "answers" : ["37",
+                     "43"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who was the Princess of Denmark?",
+                    "TAnswer": "Princess Mary",
+                    "answers" : ["Princess Isabella",
+                     "Princess Mary"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Who is the Queen of Jordan now?",
+                    "TAnswer": "Rania Al-Abdullah",
+                    "answers" : ["Salma bint-Abdullah",
+                     "Rania Al-Abdullah"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Who was the Crown Prince of Saudi Arabia",
+                    "TAnswer": "Salman Al-Saud",
+                    "answers" : ["Salman Al-Saud",
+                     "Khalid Bin-Salman"]
+                   
+                }
+            ]
+        }  ,
+
+        {
+            "id" : 11,
+            "name": "Foreign Tunnels",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What was tunnel that links Swiss and Italy?",
+                    "TAnswer": "Simplon",
+                    "answers" : ["Severn",
+                     "Simplon"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was tunnel that links Honshu with Hokkaido?",
+                    "TAnswer":"Seikan",
+                    "answers" : ["Haiken",
+                     "Seikan"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Where was longest tunnel was situated?",
+                    "TAnswer": "Norway",
+                    "answers" : ["Norway",
+                     "Finland"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Which country has most tunnels?",
+                    "TAnswer": "Norway",
+                    "answers" : ["Norway",
+                     "Germany"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which country has underwater tunnel?",
+                    "TAnswer": "China",
+                    "answers" : ["China",
+                     "UAE"]
+                   
+                }
+            ]
+        }
+    ]
+              
+    ,
+
+    "TwoAnswers2" : [
+        {
+            "id" : 1,
+            "name": "Tourism",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Where is Borobudur Temple situated?",
+                    "TAnswer": "Indonesia",
+                    "answers" : ["Thailand",
+                     "Indonesia"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Where is the Chichen Itza situated?",
+                    "TAnswer": "Mexico",
+                    "answers" : ["Mexico",
+                     "Colombia"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Which is not a country that nearby red sea?",
+                    "TAnswer": "Sudan",
+                    "answers" : ["Libiya",
+                     "Sudan"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Where was Goa situated geographycally in india?",
+                    "TAnswer": 7.50,
+                    "answers" : ["Southeastern coast",
+                     "southwestern coast"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Where was Bali island situated?",
+                    "TAnswer": "Indonesia",
+                    "answers" : ["Indonesia",
+                     "Singappore"]
+                }
+            ]
+          
+        },
+
+
+        {
+            "id" : 2,
+            "name": "Australia",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the capital of australia",
+                    "TAnswer": "Canberra",
+                    "answers" : ["Sydney",
+                     "Canberra"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the largest city in australia",
+                    "TAnswer": "Sydney",
+                    "answers" : ["Sydney",
+                     "Melbourne"]
+                },
+                {
+                    "id" : 3,
+                    "question": "When Australia got independance from UK?",
+                    "TAnswer": "Jan 1",
+                    "answers" : ["Jan 1",
+                     "Aug 25"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the capital of Victoria state in Australia?",
+                    "TAnswer": "Melbourne",
+                    "answers" : ["Adelade",
+                     "Melbourne"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many times commanwealth games organized in Australia?",
+                    "TAnswer": "5",
+                    "answers" : ["4",
+                     "5"]
+                }
+            ]
+        },
+
+
+        {
+            "id" : 3,
+            "name": "Shakira",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What does the name Shakira mean?",
+                    "TAnswer": "graceful" ,
+                    "answers" : ["beautiful",
+                     "graceful" ]                 
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was the name of Shakira's first album?",
+                    "TAnswer": "Magia",
+                    "answers" : ["Magagia",
+                     "Magia"]
+                    
+                },
+                {
+                    "id" : 3,
+                    "question": "Which Colombian soap opera did Shakira star in?",
+                    "TAnswer": "El Oasis",
+                    "answers" : ["El Nacho",
+                     "El Oasis" ]                                  
+                    
+                },
+                {
+                    "id" : 4,
+                    "question": "What was the name of Shakira's debut single in English?",
+                    "TAnswer": "Whenever,Wherever",
+                    "answers" : ["Whenever,Wherever",
+                     "Objection"]
+                                      
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Which country is Shakira from?",
+                    "TAnswer": "Colombia",
+                    "answers" : ["Colombia",
+                     "Mexico"]
+                }
+            ]
+        }
+        ,
+
+
+        {
+            "id" : 4,
+            "name": "Sayings",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "`The only thing we have to fear is fear itself`. who said that?",
+                    "TAnswer": "Roosevelt",
+                    "answers" : ["Roosevelt",
+                     "Muhammad Ali"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Float like a butterfly, sting like a bee. who said that?",
+                    "TAnswer": "Muhammad Ali",
+                    "answers" : ["Martin Luther",
+                     "Muhammad Ali"]
+                },
+                {
+                    "i]d" : 3,
+                    "question": "The future belongs to those who prepare for it today.who said that?",
+                    "TAnswer": "Marie Curie",
+                    "answers" : ["Marie Curie",
+                     "Mahatma Gandhi"]
+                },
+                {
+                    "id" : 4,
+                    "question": "You miss 100% of the shots you don't take.who said that?",
+                    "TAnswer": "Wayne Gretzky",
+                    "answers" : ["Thomas Edison",
+                     "Wayne Gretzky"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "Don't cry because it's over; smile because it happened.who said that?",
+                    "TAnswer": "Dr. Seuss",
+                    "answers" : ["Dr. Seuss",
+                     "Jesus Christ"]
+                }
+            ]
+        }
+        ,
+
+        {
+            "id" : 5,
+            "name": "world map",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which African lake, named for a British Queen, does the Equator pass through?",
+                    "TAnswer": "Lake Victoria",
+                    "answers" : ["Lake Diana",
+                     "Lake Victoria"]
+
+                },
+                {
+                    "id]" : 2,
+                    "question": "Which of these countries located above equator?",
+                    "TAnswer": "Phillipines",
+                    "answers" : ["Mauritius",
+                     "Phillipines"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What name is given to 180° longitude due to the spherical shape of the earth ?",
+                    "TAnswer": "International Date Line",
+                    "answers" : ["International Date Line",
+                     "Capricorn line"]
+                },
+                {
+                    "id" : 4,
+                    "question": "How many countries are in Capricorn Line?",
+                    "TAnswer": "10",
+                    "answers" : ["12",
+                     "10"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "which country located between Tropic of Cancer and Capricorn?",
+                    "TAnswer": "Cambodia",
+                    "answers" : ["Taiwan",
+                     "Cambodia"]
+                   
+                }
+            ]
+        }
+
+        ,
+
+        {
+            "id" : 6,
+            "name": "Shane Warne",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "what was the Jersey number of him in AUS team?",
+                    "TAnswer": "23",
+                    "answers" : ["19",
+                     "23"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What duration of his active contribution to national team?",
+                    "TAnswer": "15 years",
+                    "answers" : ["17 years",
+                     "15 years"]
+                },
+                {
+                    "id" : 3,
+                    "question": "What was the year that Warne was inducted into the ICC Cricket Hall of Fame",
+                    "TAnswer": "2013",
+                    "answers" : ["2011",
+                     "2013"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What was best bowling performance in test cricket?",
+                    "TAnswer": "8/71",
+                    "answers" : ["8/71",
+                     "7/58"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many test wickets in his career?",
+                    "TAnswer": "708",
+                    "answers" : ["712",
+                     "708"]
+                   
+                }
+            ]
+        }       ,
+
+        {
+            "id" : 7,
+            "name": "Towers",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Which country has most skyscrapers?",
+                    "TAnswer": "China",
+                    "answers" : ["Russia",
+                     "China"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What was 2nd highest skycraper in the world?",
+                    "TAnswer": "Merdeka tower",
+                    "answers" : ["Merdeka tower",
+                     "Shanghai Tower"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Which city has most skyscrapers in Europe?",
+                    "TAnswer": "Paris",
+                    "answers" : ["Paris",
+                     "Germany"]
+                },
+                {
+                    "id" : 4,
+                    "question": "Where was lotte tower located?",
+                    "TAnswer": "Seoul",
+                    "answers" : ["Seoul",
+                     "Tokyo"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What was the upcoming highest skyscraper in dubai?",
+                    "TAnswer": "Creek Tower",
+                    "answers" : ["Uptown Tower",
+                     "Creek Tower"]
+                   
+                }
+            ]
+        }       ,
+
+        {
+            "id" : 8,
+            "name": "Awards",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "Booker Prize is given in the field of?",
+                    "TAnswer": "Fiction writing",
+                    "answers" : ["Fiction writing",
+                     "Science"]
+                    
+
+                },
+                {
+                    "id" : 2,
+                    "question": "The first Indian to win the ICC ODI Player of the Year (2007) Award is",
+                    "TAnswer": "MS Dhoni",
+                    "answers" : ["Saurav Ganguly",
+                     "MS Dhoni"]
+
+                },
+                {
+                    "id" : 3,
+                    "question": "Orange prize is given in the field of",
+                    "TAnswer": "Literature",
+                    "answers" : ["Literature",
+                     "Music"]
+                   
+
+                },
+                {
+                    "id" : 4,
+                    "question": "Grammy Award is given in the field of?",
+                    "TAnswer": "Music",
+                    "answers" : ["Literature",
+                     "Music"]
+ 
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "In which field is Pulitzer Prize awarded for outstanding work ?",
+                    "TAnswer": "Literature-Journalism",
+                    "answers" : ["Literature-Journalism",
+                     "Science-Technology"]
+                   
+                }
+       ]     
+        }       ,
+
+        {
+            "id" : 9,
+            "name": "Chess",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is the name of the rating system that measures a player’s strength?",
+                    "TAnswer": "Elo",
+                    "answers" : ["Elo",
+                     "Alo"  ]                 
+
+                },
+                {
+                    "]id" : 2,
+                    "question": "The quickest possible checkmate is in:?",
+                    "TAnswer": "2 moves",
+                    "answers" : ["2 moves",
+                     "3 moves"]
+                    
+
+                },
+                {
+                   "id" : 3,
+                    "question": "Other than world champion, what is the highest title a chess player can earn?",
+                    "TAnswer": "Grand master",
+                    "answers" : ["Super master",
+                     "Grand master"]
+                                    
+                },
+                {
+                    "id" : 4,
+                    "question": "Where did chess originate?",                
+                    "TAnswer": "India",
+                    "answers" : ["China",
+                     "India"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many moves was the longest [known] chess game in history?",
+                    "TAnswer": "269",
+                    "answers" : ["237",
+                     "269"]
+                   
+                }
+            ]
+        }       ,
+
+        {
+            "id" : 10,
+            "name": "Parliments",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "What is a parliament of Japan called?",
+                    "TAnswer": "Diet",
+                    "answers" : ["Diet",
+                     "Seoul"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "Who was Prime Minister of the United Kingdom?",
+                    "TAnswer": "Rishi Sunak",
+                    "answers" : ["Rishi Sunak",
+                     "Kamila Sen"]
+                },
+                {
+                    "id" : 3,
+                    "question": "Who has the monarch of British Parliment?",
+                    "TAnswer": "Charles III",
+                    "answers" : ["Charles III",
+                     "Charles II"]
+                },
+                {
+                    "id" : 4,
+                    "question": "How many members of U.S. parliament are there?",
+                    "TAnswer": "535",
+                    "answers" : ["535",
+                     "456"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "How many Senators in U.S. parliament now?",
+                    "TAnswer": "100",
+                    "answers" : ["120",
+                     "100"]
+                   
+                }
+            ]
+        }       ,
+
+        {
+            "id" : 11,
+            "name": "Local tunnels",
+            "cato": [
+                {
+                    "id" : 1,
+                    "question": "How many railway tunnels are there from Colombo to Badulla?",
+                    "TAnswer": "46",
+                    "answers" : ["46",
+                     "43"]
+
+                },
+                {
+                    "id" : 2,
+                    "question": "What is the longest railway tunnel in Sri Lanka.",
+                    "TAnswer": "Poolbank",
+                    "answers" : ["Poolbank",
+                     "Pattipola"]
+                },
+                {
+                    "id" : 3,
+                   "question": "“Singimale tunnel” lies between Hatton and --------- railway stations.",
+                    "TAnswer": "Kotagala",
+                    "answers" : ["Kotagala",
+                     "walimada"]
+                },
+                {
+                    "id" : 4,
+                    "question": "What is the third longest and the highest railway tunnel in Sri Lanka",
+                    "TAnswer": "Pattipola",
+                    "answers" : ["Kotagala",
+                     "Pattipola"]
+                }
+                ,
+                {
+                    "id" : 5,
+                    "question": "What is the second longest railway tunnel in Sri Lanka",
+                    "TAnswer": "Moragalla",
+                    "answers" : ["Moragalla",
+                     "Kotagala"]
+                   
+                }
+            ]
+        }
+    ]
+}    
+    
+    
+
+    
+
+    
+       
+        
+    
+
+  
